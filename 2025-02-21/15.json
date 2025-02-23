@@ -430,5 +430,41 @@
         "ec": 0.0,
         "ph": 9.0,
         "timestamp": "2025-02-21T15:14:59+01:00"
+    },
+    {
+        "id": 103,
+        "temperature": 16.94,
+        "humidity": 83.79,
+        "co2": 278.0,
+        "light": 9.58,
+        "wind_speed": 0.0,
+        "moisture1": 0.0,
+        "moisture2": 0.0,
+        "moisture3": 0.0,
+        "moisture4": 0.0,
+        "nitrogen": 0.0,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "ec": 0.0,
+        "ph": 9.0,
+        "timestamp": "2025-02-21T15:04:58+01:00"
+    },
+    {
+        "id": 104,
+        "temperature": 16.93,
+        "humidity": 83.74,
+        "co2": 274.0,
+        "light": 9.17,
+        "wind_speed": 0.0,
+        "moisture1": 0.0,
+        "moisture2": 0.0,
+        "moisture3": 0.0,
+        "moisture4": 0.0,
+        "nitrogen": 0.0,
+        "phosphorus": 0.0,
+        "potassium": 0.0,
+        "ec": 0.0,
+        "ph": 9.0,
+        "timestamp": "2025-02-21T15:14:59+01:00"
     }
 ]

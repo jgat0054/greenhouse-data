@@ -16,5 +16,41 @@
         "ec": 1316.0,
         "ph": 7.5,
         "timestamp": "2025-02-23T16:09:48+01:00"
+    },
+    {
+        "id": 375,
+        "temperature": 16.97,
+        "humidity": 82.14,
+        "co2": 478.0,
+        "light": 1.25,
+        "wind_speed": 0.0,
+        "moisture1": 100.0,
+        "moisture2": 99.0,
+        "moisture3": 100.0,
+        "moisture4": 100.0,
+        "nitrogen": 1.31,
+        "phosphorus": 4.34,
+        "potassium": 4.34,
+        "ec": 1316.0,
+        "ph": 7.5,
+        "timestamp": "2025-02-23T16:09:48+01:00"
+    },
+    {
+        "id": 376,
+        "temperature": 17.01,
+        "humidity": 81.96,
+        "co2": 473.0,
+        "light": 1.25,
+        "wind_speed": 0.0,
+        "moisture1": 100.0,
+        "moisture2": 99.0,
+        "moisture3": 100.0,
+        "moisture4": 100.0,
+        "nitrogen": 1.24,
+        "phosphorus": 4.52,
+        "potassium": 4.24,
+        "ec": 1312.0,
+        "ph": 7.7,
+        "timestamp": "2025-02-23T16:19:48+01:00"
     }
 ]
