@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1147,
+        "temperature": 21.48,
+        "humidity": 72.03,
+        "co2": 364.0,
+        "light": 52.92,
+        "wind_speed": 0.0,
+        "moisture1": 73.31,
+        "moisture2": 77.37,
+        "moisture3": 100.0,
+        "moisture4": 100.0,
+        "nitrogen": 1.29,
+        "phosphorus": 7.59,
+        "potassium": 1.11,
+        "ec": 1110.0,
+        "ph": 9.0,
+        "timestamp": "2025-04-21T17:00:09+02:00"
+    }
+]
