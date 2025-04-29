@@ -88,5 +88,23 @@
         "ec": 1134.0,
         "ph": 7.5,
         "timestamp": "2025-04-29T13:41:10+02:00"
+    },
+    {
+        "id": 1691,
+        "temperature": 22.57,
+        "humidity": 72.6,
+        "co2": 535.0,
+        "light": 34.17,
+        "wind_speed": 0.0,
+        "moisture1": 48.68,
+        "moisture2": 51.73,
+        "moisture3": 96.83,
+        "moisture4": 100.0,
+        "nitrogen": 2.2,
+        "phosphorus": 6.63,
+        "potassium": 1.17,
+        "ec": 1134.0,
+        "ph": 7.5,
+        "timestamp": "2025-04-29T13:51:09+02:00"
     }
 ]
